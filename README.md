@@ -1,6 +1,6 @@
 # interagro
 
-#OBJETIVO GENERAL
+OBJETIVO GENERAL
 
 El objetivo principal de nuestro programa es establecer una plataforma digital que facilite la comunicación efectiva entre los campesinos y los compradores, con el propósito de mejorar la comercialización de los productos del campesino. A través de esta plataforma buscamos brindar a los campesinos una herramienta que les permita comerciar sus productos de una manera eficiente, al tiempo que brindamos a los compradores acceso directo a los campesinos, ofreciendo ventas seguras y confiables sin intermediarios. Nuestro objetivo es reducir las barreras tradicionales en las ventas de productos del agro colombiano, fomentando así la relación entre campesinos y compradores.
 
@@ -118,3 +118,5 @@ Bigne, J. E., & Andreu, L. (2004). Emotional satisfaction and the retailing conc
 
 Loureiro, M. L., & Hine, S. (2002). Discovering niche markets: A comparison of consumer willingness to pay for local (Colorado grown), organic, and GMO-free products. Journal of Agricultural and Applied Economics, 34(3), 477-487. (Este estudio analiza la disposición del consumidor a pagar por productos agrícolas específicos, como los productos locales y orgánicos).
 Gómez-Luciano, C. A., & Ochoa-Herrera, J. (2018). The role of social media in agriculture: A systematic literature review. Computers and Electronics in Agriculture, 147, 70-80. (Esta revisión sistemática explora el papel de las redes sociales en la promoción de productos agrícolas y puede proporcionarte ideas sobre estrategias de marketing digital).
+
+![image](https://github.com/diegojaramillov/interagro/assets/146595188/6c0a06f8-2243-4908-a864-05272ea12fbb)
