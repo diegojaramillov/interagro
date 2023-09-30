@@ -1,1 +1,120 @@
 # interagro
+
+#OBJETIVO GENERAL
+
+El objetivo principal de nuestro programa es establecer una plataforma digital que facilite la comunicación efectiva entre los campesinos y los compradores, con el propósito de mejorar la comercialización de los productos del campesino. A través de esta plataforma buscamos brindar a los campesinos una herramienta que les permita comerciar sus productos de una manera eficiente, al tiempo que brindamos a los compradores acceso directo a los campesinos, ofreciendo ventas seguras y confiables sin intermediarios. Nuestro objetivo es reducir las barreras tradicionales en las ventas de productos del agro colombiano, fomentando así la relación entre campesinos y compradores.
+
+
+
+OBJETIVOS ESPECIFICOS
+
+Diseñar una interfaz intuitiva que permita a los campesinos crear perfiles detallados de sus productos, incluyendo descripciones, precios y ubicaciones
+
+Desarrollar un algoritmo de emparejamiento eficiente que conecte automáticamente a los campesinos con compradores o distribuidores que se ajusten a sus necesidades y ubicación geográfica
+
+Integrar una función de mensajería en tiempo real que permita a los campesinos y compradores comunicarse de manera directa y segura para discutir detalles de las transacciones
+
+Establecer un sistema de calificaciones y reseñas que permita a los usuarios evaluar y compartir sus experiencias, promoviendo la confianza y la responsabilidad
+
+
+
+
+
+
+
+
+
+
+PROBLEMATICAS A ABORDAR
+ 
+Falta de Acceso a Mercados Amplios: Los campesinos a menudo tienen dificultades para acceder a mercados más grandes y rentables debido a limitaciones geográficas y falta de conexiones con compradores y distribuidores.
+Dependencia de intermediarios: Los intermediarios pueden ejercer control sobre los precios y condiciones, reduciendo las ganancias de los campesinos y aumentando la inseguridad en las transacciones. 
+Inseguridad en las transacciones: Los campesinos pueden enfrentar incertidumbre en cuanto al pago y la entrega de productos al interactuar con compradores desconocidos.
+Dificultad para Garantizar la Calidad y la Entrega: 2 Mantener la calidad y garantizar la entrega confiable de los productos puede ser un desafío para los campesinos, lo que afecta la confianza de los compradores. 
+Plataforma de Comercio Electrónico: El software permitirá a los campesinos listar sus productos en línea, brindando acceso a un mercado más amplio y diversificado de compradores interesados. 
+Negociación Directa y Transparente: La plataforma ofrecerá un espacio para que los campesinos y compradores negocien precios y condiciones directamente, eliminando intermediarios y promoviendo una mayor transparencia. 
+Sistema de Evaluación y Confianza: Se implementará un sistema de calificaciones y comentarios que permitirá a los compradores evaluar la calidad de los productos y la confiabilidad de los campesinos. 
+Pagos Seguros y Rastreables: La plataforma ofrecerá opciones de pago en línea seguras y rastreables, lo que brindará a los campesinos la seguridad de recibir su compensación de manera oportuna. 
+Seguimiento de Entregas: Los compradores podrán rastrear el progreso de las entregas en tiempo real, lo que reducirá la incertidumbre y aumentará la confiabilidad. Impacto Esperado La implementación exitosa de esta plataforma de software podría revolucionar la forma en que los campesinos interactúan con los compradores y comercializan sus productos. Se espera que reduzca la dependencia de intermediarios, aumente la transparencia en las transacciones y mejore la confianza entre las partes. Al ofrecer un canal directo de comunicación y transacciones seguras, la plataforma podría empoderar a los campesinos al proporcionarles una vía confiable para llevar sus productos al mercado y recibir compensación justa por su trabajo. Al mismo tiempo, los compradores se benefician al acceder a productos de calidad directamente de los productores y al participar en un proceso más transparente y eficiente de adquisición. 
+
+Conclusión: La plataforma de software propuesta para facilitar la conexión entre campesinos y compradores tiene el potencial de abordar problemáticas clave en la comercialización de productos agrícolas. Al promover la transparencia, la seguridad y la confiabilidad en las transacciones, esta iniciativa podría mejorar significativamente la relación entre campesinos y compradores, beneficiando a ambas partes y contribuyendo al desarrollo sostenible de las comunidades agrícolas.
+
+JUSTIFICACIÓN
+
+Este proyecto aborda directamente el problema de los intermediarios que suelen explotar a los productores, ofreciéndoles precios injustamente bajos por sus productos; A través de nuestra plataforma, los campesinos pueden conectarse directamente con compradores y distribuidores eliminando a intermediarios que tienden a aprovecharse de su situación lo cual permite a los campesinos ofrecer sus productos a un precio justo y competitivo, lo que consecuentemente aumenta sus ingresos y les brinda oportunidades para negociar condiciones más favorables con distribuidores. Esto tiene un impacto positivo directo en la calidad de vida de los productores y sus familias.
+
+El proyecto tiene enfoque de la accesibilidad y la simplicidad de uso, lo que implica que se adapta a las necesidades de los campesinos, ya que muchos pueden tener experiencia limitada con la tecnología  de ahí que  la plataforma ayuda a conectar directamente a los productores con los compradores ofreciendo un canal de comunicación directa entre ellos, lo cual apunta hacia la facilitación entre la negociación y la coordinación de transacciones, lo cual nos permite crear una relación más transparente y beneficiosa para ambas partes.
+
+Los productores pueden llegar a un público más amplio y diverso de distribuidores, lo que aumenta sus posibilidades de venta y reduce su dependencia de un mercado local limitado, de manera que empodera la comunidad agrícola al controlar la comercialización de sus productos y poder tomar decisiones informadas sobre sus negocios. Esto promueve la independencia económica y la resiliencia en la comunidad agrícola, además de que apoya la agricultura nacional sostenible de manera que obtengan mejores precios por sus productos, los agricultores tienen más incentivos para invertir en prácticas agrícolas sostenibles y de alta calidad, de ahí que a su vez puede contribuir a la protección del medio ambiente y la seguridad alimentaria.
+
+
+Este proyecto se destaca por su capacidad para abordar un problema real y cotidiano que afecta a los productores, ofreciendo una solución única y muy favorable que les brinda control sobre sus transacciones comerciales, mejores oportunidades económicas y una mayor calidad de vida. Por tanto, al eliminar intermediarios y negociantes; para promover la transparencia en el proceso de venta, lo que prueba que este proyecto tiene un impacto positivo en el productor agrícola y en los compradores, da bienestar económico y en la autonomía de la comunidad agrícola y los consumidores.
+
+
+VIABILIDAD
+
+La viabilidad de este proyecto en Colombia se basa en su capacidad para abordar una necesidad crítica en el mercado agrícola del país. La explotación de intermediarios es un problema evidente, respaldado por la demanda de campesinos en busca de mejores precios y oportunidades de venta. Además, el aumento en la penetración de dispositivos móviles en áreas rurales hace que la aplicación sea accesible. Para garantizar el cumplimiento legal y evitar posibles conflictos con intermediarios, se debe realizar una revisión legal exhaustiva y considerar la colaboración con intermediarios éticos dispuestos a operar en un mercado más transparente y justo.
+La capacitación y el soporte continuo son esenciales para asegurar que tanto campesinos como compradores puedan utilizar la plataforma de manera efectiva y reducir la resistencia al cambio. La promoción del proyecto a través de colaboraciones con organizaciones agrícolas locales y gubernamentales llegará a las comunidades rurales de manera efectiva.
+La escalabilidad es un factor crítico desde el principio, diseñando el proyecto para manejar un aumento en el número de usuarios a medida que se expanda. La retroalimentación constante de los usuarios y la mejora continua de la plataforma son esenciales para mantener su relevancia y utilidad a lo largo del tiempo. Finalmente, la viabilidad financiera se basa en un modelo de negocio sostenible que genere ingresos sin imponer comisiones excesivas que puedan afectar a los campesinos. En conjunto, estos factores respaldan la viabilidad de este proyecto en Colombia y su capacidad para marcar una diferencia significativa en la vida de los campesinos.
+
+
+
+
+
+
+
+Marco teórico
+
+
+Contexto Agrícola en Colombia
+La agricultura en Colombia es uno de los sectores económicos más importantes, contribuyendo significativamente al PIB del país y siendo una fuente de empleo para una gran cantidad de personas. Sin embargo, a pesar de su importancia, los campesinos colombianos a menudo enfrentan desafíos significativos en la comercialización de sus productos.
+
+Diversidad agrícola: Colombia es conocida por su rica diversidad de cultivos, que incluyen café, flores, frutas tropicales, hortalizas y productos básicos como maíz y arroz.
+Pequeños productores: La mayoría de los agricultores en Colombia son pequeños productores o campesinos que trabajan en parcelas de tamaño reducido, lo que puede limitar su acceso a los mercados.
+Problemas en la comercialización: Los campesinos a menudo enfrentan barreras tradicionales en la comercialización, como intermediarios que reducen sus márgenes de beneficio y la falta de acceso directo a los compradores.
+
+
+Plataformas Digitales en la Agricultura
+La digitalización ha revolucionado numerosos sectores económicos, y la agricultura no es una excepción. Las plataformas digitales han demostrado ser eficaces para abordar problemas comunes en la agricultura y pueden ofrecer soluciones innovadoras.
+
+Experiencias internacionales: Se han registrado éxitos en todo el mundo con plataformas digitales que conectan a agricultores con compradores directos, eliminando intermediarios y mejorando la eficiencia en la comercialización.
+
+Ventaja
+
+ La digitalización puede mejorar la gestión de la cadena de suministro, proporcionar información en tiempo real sobre la oferta y la demanda, y facilitar la comunicación entre los productores y los compradores.
+La comunicación efectiva y la comercialización eficiente son esenciales para el éxito de cualquier plataforma digital en el sector agrícola.
+Importancia de la comunicación: Una comunicación fluida y efectiva entre campesinos y compradores es fundamental para establecer relaciones sólidas y garantizar transacciones exitosas.
+
+Eliminación de intermediarios: Reducir la dependencia de intermediarios puede aumentar los márgenes de ganancia de los agricultores y disminuir los costos para los compradores.
+
+Seguridad y confiabilidad: La plataforma debe garantizar la seguridad de las transacciones y la calidad de los productos para establecer la confianza necesaria entre las partes involucradas.
+
+
+
+
+
+
+Objetivos del Proyecto
+Este proyecto tiene como objetivo abordar los desafíos antes mencionados y promover una comercialización más eficiente de los productos agrícolas en Colombia mediante la creación de una plataforma digital.
+Establecimiento de la plataforma digital: Desarrollo de una plataforma en línea que conecte a campesinos y compradores, facilitando la transacción de productos agrícolas.
+
+Facilitación de la comunicación: Mejora de la comunicación entre las partes interesadas a través de herramientas digitales y aplicaciones.
+
+Mejora de la comercialización: Aumento de las oportunidades de comercialización de los productos agrícolas mediante la eliminación de intermediarios.
+
+Reducción de barreras tradicionales: Disminución de los obstáculos históricos en la venta de productos del agro colombiano, incluyendo la falta de acceso a los mercados.
+
+Conclusión
+La implementación de esta plataforma tiene el potencial de transformar la forma en que los campesinos colombianos comercializan sus productos, al tiempo que proporciona a los compradores acceso directo a productos frescos y de calidad. Al abordar los problemas tradicionales en la comercialización agrícola, se espera fortalecer la relación entre los campesinos y los compradores, impulsando así el desarrollo sostenible del sector agrícola en Colombia.
+
+Referencias
+
+
+Kotler, P., & Keller, K. L. (2015). Marketing Management. Pearson. (Un libro ampliamente utilizado en marketing que ofrece una base sólida en conceptos generales de marketing).
+
+Armstrong, G., & Kotler, P. (2019). Marketing: An Introduction. Pearson. (Otra opción para comprender los principios fundamentales del marketing).
+
+Bigne, J. E., & Andreu, L. (2004). Emotional satisfaction and the retailing concept: An analysis of the hypermarket sector. The International Review of Retail, Distribution and Consumer Research, 14(4), 385-406. (Este artículo explora la satisfacción emocional en el contexto minorista, que puede ser relevante para la estrategia de marketing en la agricultura).
+
+Loureiro, M. L., & Hine, S. (2002). Discovering niche markets: A comparison of consumer willingness to pay for local (Colorado grown), organic, and GMO-free products. Journal of Agricultural and Applied Economics, 34(3), 477-487. (Este estudio analiza la disposición del consumidor a pagar por productos agrícolas específicos, como los productos locales y orgánicos).
+Gómez-Luciano, C. A., & Ochoa-Herrera, J. (2018). The role of social media in agriculture: A systematic literature review. Computers and Electronics in Agriculture, 147, 70-80. (Esta revisión sistemática explora el papel de las redes sociales en la promoción de productos agrícolas y puede proporcionarte ideas sobre estrategias de marketing digital).
