@@ -2,15 +2,17 @@
 /* styles.css */
 
 body {
-  background-image: url('https://usbbog.github.io/Portafolios/assets/tds/s2/4.png');
+  background-image: url('Imagen1.png');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed; /* La imagen permanece fija mientras se desplaza la página */
-  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   background-color: rgb(255, 255, 255);
+  overflow: hidden; /* Evita el desplazamiento vertical en la página */
+  font-family: 'Algerian', ;
 }
+
 
 
 header {
@@ -94,19 +96,6 @@ nav ul li a {
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Aumenta la sombra al pasar el mouse */
 }
 
-
-.btn {
-  background-color: #333;
-  color: #fff;
-  padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
-}
-
-.btn:hover {
-  background-color: #555;
-}
 
 footer {
   background-color: #333;
