@@ -5,7 +5,6 @@ body {
   background-image: url('Imagen1.png');
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed; /* La imagen permanece fija mientras se desplaza la página */
   margin: 0;
   padding: 0;
   background-color: rgb(255, 255, 255);
