@@ -94,6 +94,7 @@ nav ul li a {
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Aumenta la sombra al pasar el mouse */
 }
 
+.imagenlogo{text-align: center;}
 
 footer {
   background-color: #333;
